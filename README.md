@@ -1,4 +1,4 @@
-# Legendbae_66
+# Matchmingle
 
 
 
@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/dhardik-novus/legendbae_66.git
+git remote add origin [https://github.com/ayomitide-oaj/matchmingle](https://github.com/AYOMITIDE-OAJ/Matchmingle)
 git branch -M main
 git push -uf origin main
 ```
